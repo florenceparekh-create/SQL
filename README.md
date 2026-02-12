@@ -43,7 +43,7 @@ The schema is designed following normalization principles to reduce redundancy a
 - Aggregate Functions (SUM, COUNT, AVG, MAX, MIN)
 - Subqueries
 - Window Functions
-- Data Cleaning Queries
+- View
 - Handling NULL values
 
 ---
