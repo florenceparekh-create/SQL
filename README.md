@@ -1,5 +1,4 @@
 # SQL
-# SQL Portfolio Project
 
 ## 📊 Project Overview
 This project demonstrates practical SQL skills including database creation, data insertion, querying, and data analysis.  
